@@ -1,0 +1,11 @@
+{
+  "name": "lambda-deployment-cli-tutorial",
+  "version": "1.0.0",
+  "description": "Lambda Deployment with CLI How-To",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "./deploy.sh"
+  },
+  "author": "Ivan Sieder",
+  "license": "ISC"
+}
