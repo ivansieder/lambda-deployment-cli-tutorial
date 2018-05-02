@@ -1,1 +1,2 @@
-# lambda-deployment-cli-tutorial
+# Lambda Deployment CLI Tutorial
+This repository is meant to be used along with the tutorial https://simedia.tech/blog/deploying-to-aws-lambda-the-quick-and-dirty-way/ to learn how to quickly deploy from your PC to an AWS Lambda function.
